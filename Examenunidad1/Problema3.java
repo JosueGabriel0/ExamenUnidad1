@@ -38,7 +38,6 @@ public class Problema3 {
   }
   //Datos de salida
   System.out.println("Su tipo de vacuna es: "+tipodevacuna);
-
   }
   
 
