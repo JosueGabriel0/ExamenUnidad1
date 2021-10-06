@@ -1,6 +1,6 @@
 //Realice un algoritmo que le permita probar uno de los 4 primeros algoritmos que ha diseñado anteriormente aplicando una estructura condicional múltiple o algo similar, o las estructuras que se requiera usar.
 import java.util.Scanner;
-public class Problema5 {
+public class Problema5JGOM {
  static Scanner sc = new Scanner(System.in);
 
 
